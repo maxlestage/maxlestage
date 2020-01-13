@@ -1,0 +1,59 @@
+{% extends 'layout.html.twig' %}
+{% block stylesheet %}
+    <link rel="stylesheet" href="/assets/css/shop-homepage.css">
+{% endblock %}
+{% block content %}
+
+
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-3">
+                <h1 class="my-1">Microcosmos</h1>
+            </div>
+            <!-- /.col-lg-3 -->
+
+            <div class="col-lg-9">
+
+                <div class="card mt-4">
+                    <img class="card-img-top img-fluid" src="https://scontent-frt3-2.xx.fbcdn.net/v/t31.0-8/19390814_341380462947810_7427128736427532804_o.jpg?_nc_cat=109&_nc_ohc=3y9drKTyS0oAQktTEWUJRJXJpEU92HCTyDgtIcBEoOtMp2yE2g5Es-dGQ&_nc_ht=scontent-frt3-2.xx&oh=a9bea4518c3be25712485ac1b1c197a9&oe=5EA2EC87" alt="">
+                    <div class="card-body">
+                        <h4 class="card-title">Microcosmos</h4>
+                        <h6></h6>
+                        <p class="card-text">
+
+                            Prix suivant taille et support  - Taxes incluses.<br>
+                            Disponible dans en Taille:
+                            30X20 &nbsp;&nbsp; 45X30 &nbsp;&nbsp; 60X40 &nbsp;&nbsp; 70X45 &nbsp;&nbsp; 120X80<br>
+
+                            Disponible dans les Matériaux:
+                            FINE-ART PRINT - ALU-DIBOND - ACRYLIC GLASS.</p>
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- /.col-lg-9 -->
+
+        </div>
+
+    </div>
+    <!-- /.container -->
+    {% include 'Shop/print.html.twig' %}
+    <footer>
+
+        <!-- Copyright -->
+        <div class="footerr text-center py-3">© 2019 Copyright:
+            <a>LESTAGE Maxime</a>
+        </div>
+        <!-- Copyright -->
+
+    </footer>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+{% endblock %}

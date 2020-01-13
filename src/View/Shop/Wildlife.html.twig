@@ -1,0 +1,74 @@
+{% extends 'layout.html.twig' %}
+{% block stylesheet %}
+    <link rel="stylesheet" href="/assets/css/shop-homepage.css">
+{% endblock %}
+{% block content %}
+
+
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-2">
+                <h1 class="my-1">Wildlife</h1>
+            </div>
+            <!-- /.col-lg-3 -->
+
+            <div class="col-lg-9">
+
+                <div class="card mt-4">
+                    <img class="card-img-top img-fluid" src="https://presetlove.com/wp-content/uploads/2018/10/Wildlife-PresetLove-beforeafter-4.jpg" alt="">
+                    <div class="card-body">
+                        <h3 class="card-title">Wildlife</h3>
+                        <h4>$9.99</h4>
+                        <p class="card-text">Wildlife Preset is a Lightroom preset designed for taking animals, nature and wildlife photography. It improves the quality of photos by increasing color saturation and sharpening that helps in bringing out the finer details especially in animal photos. This preset gives wildlife pictures fascinating effects.</p>
+                    <span class="text-warning">&#9733; &#9733; &#9733; &#9733; &#9734;</span>
+                        2.7 stars
+                    </div>
+                </div>
+                <!-- /.card -->
+
+                <div class="card card-outline-secondary my-4">
+                    <div class="card-header">
+                        Product Reviews
+                    </div>
+                    <div class="card-body">
+                        <p>The wildlife preset increases whites and clarity in this elephant portrait. There is a visible increase in warm brown tones in highlights and custom vignetting settings.</p>
+                        <small class="text-muted">Posted by Marcel on 25/02/19</small>
+                        <hr>
+                        <p>This deer feeding picture is a good example of what effects the wildlife preset can do. Aside from the increased warm brown tones in the deer’s color, there’s also an increase in whites and sharpening which is obvious in the deer’s white spots.</p>
+                        <small class="text-muted">Posted by Adam on 24/02/18</small>
+                        <hr>
+                        <p>Another effect of the wildlife preset is decreased in blacks and warm temp in this gazelle image. The gazelle’s fur looks finer and the green grass in the background is enhanced as well.</p>
+                        <small class="text-muted">Posted by Jack on 3/1/17</small>
+                        <hr>
+                        <a href="#" class="btn btn-success">Leave a Review</a>
+                    </div>
+                </div>
+                <!-- /.card -->
+
+            </div>
+            <!-- /.col-lg-9 -->
+
+        </div>
+
+    </div>
+    <!-- /.container -->
+    {% include 'Shop/Preset.html.twig' %}
+    <footer>
+
+        <!-- Copyright -->
+        <div class="footerf text-center py-3">© 2019 Copyright:
+            <a>LESTAGE Maxime</a>
+        </div>
+        <!-- Copyright -->
+
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+{% endblock %}

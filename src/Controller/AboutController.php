@@ -8,7 +8,7 @@
 
 namespace App\Controller;
 
-class HomeController extends AbstractController
+class AboutController extends AbstractController
 {
 
     /**
@@ -20,9 +20,9 @@ class HomeController extends AbstractController
      * @throws \Twig\Error\SyntaxError
      *
      */
-    public function index()
+    public function about()
     {
-        return $this->twig->render('Home/index.html.twig');
+        return $this->twig->render('about/about.html.twig');
     }
 
 }

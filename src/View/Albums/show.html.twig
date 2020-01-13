@@ -1,0 +1,9 @@
+{% extends 'layout.html.twig' %}
+
+{% block content %}
+    <h1>Albums {{ albums.title }}</h1>
+    <p>{{ albums.id }}. {{ albums.title }}</p>
+    <a href="/Albums/edit/{{ albums.id }}">Edit</a>
+    <a href="/Albums/delete/{{albums.id}}">Supprimer</a>
+    <a href="/Albums/index">Back</a>
+{% endblock %}

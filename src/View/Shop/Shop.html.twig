@@ -1,0 +1,50 @@
+{% extends 'layout.html.twig' %}
+{% block stylesheet %}
+    <link rel="stylesheet" href="/assets/css/shop.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/OFFgrain.css">
+    <link rel="stylesheet" href="/assets/css/masonry.css">
+    <link rel="stylesheet" href="/assets/css/lightbox.css">
+    <link rel="stylesheet" href="/assets/css/cardAlbums.css">
+    <link rel="stylesheet" href="/assets/css/scrolldown.css">
+    <link rel="stylesheet" href="/assets/css/print.css">
+{% endblock %}
+{% block content %}
+
+
+<body>
+
+    <h1 class="text-center py-3">Le Shop</h1>
+
+
+
+        {% include 'Shop/Print.html.twig' %}
+        {% include 'Shop/Preset.html.twig' %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <footer>
+
+        <!-- Copyright -->
+        <div class="footerf text-center py-3">© 2019 Copyright:
+            <a>LESTAGE Maxime</a>
+        </div>
+        <!-- Copyright -->
+
+    </footer>
+
+{% endblock %}
