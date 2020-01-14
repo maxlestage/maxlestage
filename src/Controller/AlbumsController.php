@@ -38,7 +38,7 @@ class AlbumsController extends AbstractController
      */
     public function toujours()
     {
-        return $this->twig->render('Albums/toujours.html.twig');
+        return $this->twig->render('Albums/_toujours.html.twig');
     }
 
 
@@ -54,7 +54,7 @@ class AlbumsController extends AbstractController
      */
     public function memphis()
     {
-        return $this->twig->render('Albums/memphis.html.twig');
+        return $this->twig->render('Albums/_memphis.html.twig');
     }
 
 
@@ -69,7 +69,7 @@ class AlbumsController extends AbstractController
      */
     public function sunday()
     {
-        return $this->twig->render('Albums/Sunday.html.twig');
+        return $this->twig->render('Albums/_Sunday.html.twig');
     }
 
 
