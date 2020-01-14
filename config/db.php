@@ -13,10 +13,10 @@
  *
  */
 
-$user = $_SERVER['APP_DB_USER'] ? $_SERVER['APP_DB_USER'] : 'user';
-$password = $_SERVER['APP_DB_PWD'] ? $_SERVER['APP_DB_PWD'] : 'password';
-$localhost = $_SERVER['APP_DB_HOST'] ? $_SERVER['APP_DB_HOST'] : 'localhost';
-$database_name = $_SERVER['APP_DB_NAME'] ? $_SERVER['APP_DB_NAME'] : 'database_name';
+$user = isset($_SERVER['APP_DB_USER']) ? $_SERVER['APP_DB_USER'] : 'user';
+$password = isset($_SERVER['APP_DB_PWD']) ? $_SERVER['APP_DB_PWD'] : 'password';
+$localhost = isset($_SERVER['APP_DB_HOST']) ? $_SERVER['APP_DB_HOST'] : 'localhost';
+$database_name = isset($_SERVER['APP_DB_NAME']) ? $_SERVER['APP_DB_NAME'] : 'database_name';
 
 define('APP_DB_USER', $user);
 define('APP_DB_PWD', $password);

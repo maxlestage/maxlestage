@@ -22,7 +22,7 @@ class AboutController extends AbstractController
      */
     public function about()
     {
-        return $this->twig->render('about/about.html.twig');
+        return $this->twig->render('aBout/aBout.html.twig');
     }
 
 }
