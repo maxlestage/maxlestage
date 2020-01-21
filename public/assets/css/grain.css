@@ -287,4 +287,5 @@ body b {
     text-transform: uppercase;
 }
 
-
+/* force scrollbar */
+html { overflow-y: scroll; }
