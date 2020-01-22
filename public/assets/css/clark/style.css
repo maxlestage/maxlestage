@@ -4,6 +4,10 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+html {
+  overflow-y: scroll;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -8447,7 +8451,7 @@ h1, h2, h3, h4, h5,
         bottom: 0;
         left: 0;
         right: 0;
-        background: #000000;
+        background: #00000000;
         opacity: 0; }
       .owl-carousel.home-slider .slider-item .slider-text {
         height: 750px;
@@ -8465,7 +8469,7 @@ h1, h2, h3, h4, h5,
             bottom: 0;
             left: 0;
             right: 0;
-            background: #000000;
+            background: #00000000;
             opacity: 0; }
           @media (max-width: 1199.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .one-third {
@@ -8475,7 +8479,7 @@ h1, h2, h3, h4, h5,
               width: 100%;
               z-index: 0; }
               .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
-                opacity: .3; }
+                opacity: 0; }
               .owl-carousel.home-slider .slider-item .slider-text .one-third:after {
                 opacity: 0; } }
         .owl-carousel.home-slider .slider-item .slider-text .one-forth {
@@ -9683,3 +9687,8 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item{
+  -ms-touch-action: auto;
+  touch-action: auto;
+}
