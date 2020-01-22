@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxlestage.herokuapp.com/sitemap.xml

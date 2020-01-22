@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://maxlestage.herokuapp.com/max/index</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/photos/sea</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/photos/stay</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/photos/bardenas</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/photos/dad</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/assets/files/CvMaximeLestage.pdf</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/photos/index</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/photos/skate</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/photos/bidart</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/photos/reflexion</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/photos/portraits</loc>
+    <changefreq>always</changefreq>
+  </url>
+  <url>
+    <loc>https://maxlestage.herokuapp.com/photos/milkyway</loc>
+    <changefreq>always</changefreq>
+  </url>
+</urlset>
+<!--<guid value="678e8c21-7e10-461f-8110-08b96dbd17b5" />-->
+<!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
