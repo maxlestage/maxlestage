@@ -195,4 +195,19 @@ class PhotosController extends AbstractController
         return $this->twig->render('/photos/MilkyWay.html.twig');
     }
 
+    /**
+     * Display home page
+     *
+     * @return string
+     * @throws \Twig\Error\LoaderError
+     * @throws \Twig\Error\RuntimeError
+     * @throws \Twig\Error\SyntaxError
+     */
+    public function bichon()
+    {
+        return $this->twig->render('/photos/Bichon.html.twig');
+    }
+
+
+
 }
