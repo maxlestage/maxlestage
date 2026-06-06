@@ -84,11 +84,13 @@
 
 <div align="center">
 
-![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxlestage&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxlestage&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxlestage&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxlestage&theme=tokyonight)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxlestage&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=maxlestage&theme=tokyonight&hide_border=true)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maxlestage&theme=tokyonight)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxlestage&theme=tokyonight&utcOffset=2)
 
 </div>
 
