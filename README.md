@@ -1,22 +1,34 @@
 <div align="center">
 
-# Hi, I'm Maxime Lestage 👋
-
-### 🦀 Software Engineer · Rust · Node.js · React
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Maxime+Lestage+%F0%9F%91%8B;Software+Engineer+%C2%B7+Rust+%F0%9F%A6%80+%C2%B7+Node.js+%C2%B7+React;Never+give+up.+%F0%9F%92%AA)](https://github.com/maxlestage)
 
 *Ingénieur logiciel passionné par les nouvelles technologies — du back-end au front-end.*
 *Software engineer passionate about new tech — from back-end to front-end.*
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-lestage)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxlestage@icloud.com)
 [![CV en ligne](https://img.shields.io/badge/CV%20en%20ligne-181717?style=for-the-badge&logo=github&logoColor=white)](https://maxlestage.github.io/mon-cv/)
 ![Location](https://img.shields.io/badge/Bordeaux%2C%20France-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
+![Profile views](https://komarev.com/ghpvc/?username=maxlestage&color=f74c00&style=for-the-badge)
+
 </div>
 
 ---
 
 ## 🚀 À propos / About
+
+```rust
+struct Maxime {
+    role: "Software Engineer",
+    location: "Bordeaux, France 🇫🇷",
+    favorite_lang: "Rust 🦀",
+    daily_stack: ["Node.js", "React", "Vue.js", "PostgreSQL"],
+    motto: "Je ne lâche rien.",
+}
+```
 
 > 🧠 **Ex-ingénieur R&D chez Orange** — j'ai construit le futur de la tech, maintenant je reconstruis le mien.
 >
@@ -28,10 +40,15 @@
 
 ## 🛠️ Tech Stack
 
-**Langages**
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Langages
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
@@ -40,14 +57,17 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-**Front-end**
+### Front-end
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Back-end**
+</td>
+<td valign="top" width="50%">
+
+### Back-end
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -57,12 +77,18 @@
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-**Bases de données & outils**
+### Bases de données & outils
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -84,11 +110,24 @@
 
 <div align="center">
 
-![Maxime's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxlestage&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxlestage&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=maxlestage&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlestage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=maxlestage&theme=tokyonight&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=maxlestage&theme=tokyonight&no-frame=true&column=7&margin-w=8)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maxlestage&theme=tokyo-night&hide_border=true)](https://github.com/maxlestage)
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/maxlestage/maxlestage/output/github-snake-dark.svg)
 
 </div>
 
@@ -105,5 +144,7 @@
 ---
 
 *« Face à un problème, je prends le recul nécessaire pour proposer la bonne solution. »*
+
+⭐ *From [maxlestage](https://github.com/maxlestage)*
 
 </div>
