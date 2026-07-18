@@ -110,12 +110,9 @@ struct Maxime {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxlestage&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlestage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170">
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=maxlestage&theme=tokyonight&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=maxlestage&theme=tokyonight&no-frame=true&column=7&margin-w=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxlestage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maxlestage&theme=tokyo-night&hide_border=true)](https://github.com/maxlestage)
 
@@ -127,7 +124,7 @@ struct Maxime {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/maxlestage/maxlestage/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/maxlestage/readme/output/github-snake-dark.svg)
 
 </div>
 
