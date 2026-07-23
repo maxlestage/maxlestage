@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Maxime+Lestage+%F0%9F%91%8B;Software+Engineer+%C2%B7+Rust+%F0%9F%A6%80+%C2%B7+Node.js+%C2%B7+React;Never+give+up.+%F0%9F%92%AA)](https://github.com/maxlestage)
+# Salut, moi c'est Maxime Lestage 👋
+
+### Software Engineer · Rust 🦀 · Node.js · React
 
 *Ingénieur logiciel passionné par les nouvelles technologies — du back-end au front-end.*
 *Software engineer passionate about new tech — from back-end to front-end.*
