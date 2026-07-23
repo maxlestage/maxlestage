@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-lestage)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxlestage@icloud.com)
 [![CV en ligne](https://img.shields.io/badge/CV%20en%20ligne-1a1815?style=for-the-badge&logo=readdotcv&logoColor=white)](https://cv-lestage-34d2c9ae1cb0.herokuapp.com/)
+[![Mes Projets](https://img.shields.io/badge/Mes%20Projets-F74C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxlestage?tab=repositories)
 ![Location](https://img.shields.io/badge/Bordeaux%2C%20France-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ![Profile views](https://komarev.com/ghpvc/?username=maxlestage&color=f74c00&style=for-the-badge)
